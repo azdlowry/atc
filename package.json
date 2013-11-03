@@ -10,7 +10,8 @@
   "license": "BSD",
   "dependencies": {
     "socket.io": "~0.9.16",
-    "node-uuid": "~1.4.1"
+    "node-uuid": "~1.4.1",
+    "mime": "~1.2.11"
   },
   "devDependencies": {
     "mocha": "~1.13.0",
