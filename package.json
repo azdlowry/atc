@@ -1,0 +1,19 @@
+{
+  "name": "travelator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "node-uuid": "~1.4.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "chai": "~1.8.1"
+  }
+}
